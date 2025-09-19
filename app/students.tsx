@@ -99,7 +99,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 10,
   },
-  buttons: { flexDirection: 'row', gap: 10 },
+  buttons: { flexDirection: 'row', gap: 10, marginTop: 5 },
   navButtons: {
     flexDirection: 'row',
     justifyContent: 'space-around',
